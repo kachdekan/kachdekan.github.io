@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{"Cuy+":function(e,a,n){"use strict";n.r(a);var l=n("q1tI"),t=n.n(l);a.default=function(){return t.a.createElement("div",null,t.a.createElement("h1",null,"Leave me a message"),t.a.createElement("p",null,"For small gigs:"),t.a.createElement("a",{href:"mailto: kachdekan@gmail.com"},"Send Email"))}}}]);
+//# sourceMappingURL=component---src-pages-contact-js-64f129c561c554addb7c.js.map
